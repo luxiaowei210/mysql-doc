@@ -1,4 +1,4 @@
-# githud的安装
+# git的安装
 在linux中输入git安装命令：sudo apt-get install git 进行git的安装。
 
 # git的基本命令
