@@ -15,3 +15,6 @@
 * git commit（提交）
 * git config --global user.name（配置用户名）
 * git config --global user.email（配置用户邮箱）
+* git config --global core。editor vim（配置提交信息的编辑器为vim）
+* git log （查看提交的信息）
+* 
