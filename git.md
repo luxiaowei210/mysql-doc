@@ -17,4 +17,8 @@
 * git config --global user.email（配置用户邮箱）
 * git config --global core。editor vim（配置提交信息的编辑器为vim）
 * git log （查看提交的信息）
-* 
+* git reflog(查看最后一次提交的CommitID)
+* git rm 文件名（从库中删除文件）
+* git diff（版本间对比）
+* git format-patch -p1（git生成patch）
+* git am patch-name（git打patch）
