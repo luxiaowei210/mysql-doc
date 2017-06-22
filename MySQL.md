@@ -39,6 +39,8 @@ sno int not null, foreign key (sno) references school(sno) )character set = utf8
 create table score(
 num int not null primary key, score int(20) not null, 
 id int not null, foreign key (id) references school(id))character set = utf8;
+create table teacher(tid varchar(20) not null primary key, tpassword varchar(20) not null);
+  create table student(id varchar(32) not null primary key, spassword varchar(32) not null);
 ```
 # 基本命令
 * 1.连接数据库命令 mysql -u root –p 回车后提示你输密码.注意用户名前可以有空格也可以没有空格
