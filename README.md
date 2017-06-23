@@ -3,6 +3,7 @@
 * [cgi](./cgi.md)
 * [linux](./linux.md)
 * [git](./git.md)
+* [课程设计](./sqlbiao.md)
 # 每日计划
 * [16](./2017616.md)
 * [19](./2017619.md)
